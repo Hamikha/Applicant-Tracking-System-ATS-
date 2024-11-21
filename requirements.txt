@@ -1,0 +1,5 @@
+streamlit
+langchain-groq
+python-dotenv
+pdf2image
+langchain-google-genai
